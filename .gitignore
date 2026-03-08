@@ -1,3 +1,4 @@
 /target
-cargo.toml
-.git
+Cargo.toml
+/.git
+Cargo.lock
